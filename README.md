@@ -7,4 +7,3 @@ Obesity is one of the contemporary issues we are now facing.But the use of class
 
 ![image](https://user-images.githubusercontent.com/115871964/236400854-113762b4-1597-439f-be80-41fe19e7a962.png)
 
-![image](https://user-images.githubusercontent.com/115871964/236400900-2d44ca4f-6d75-41d9-8d50-45bf40d5bffe.png)
