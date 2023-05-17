@@ -1,4 +1,4 @@
-# Minor
+# Nutrisccore
 Obesity is one of the contemporary issues we are now facing.But the use of classification  to determine the degree of healthiness of food images is still largely unexplored.In order to recognize things through image processing, we are employing deep learning, which is employed in everyday life.Here the model used in this project is ResNet50 which has 50 layers of block and these networks are simpler to optimize and can improve accuracy over significantly more depth.In this project we have built the data set from the already-existing food image datasets (Kaggle).On the basis of classification of data set we have manage to build a scoring system which will have +1 for healthy food and -1 for unhealthy food.
 
 ![image](https://user-images.githubusercontent.com/115871964/236400687-e9d6a806-22cd-4a7a-9bac-4d1dcfda8b55.png)
