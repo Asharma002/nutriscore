@@ -11,7 +11,7 @@ import tensorflow as tf
 from PIL import Image
 import numpy as np
 import emoji
-with open('C:/Users/KIIT/Desktop/healthy/style.css') as f:
+with open('style.css') as f:
      st.markdown(f'<style>{(f.read())}</style>', unsafe_allow_html=True)
      
 # Load the pre-trained model
