@@ -2,7 +2,7 @@ import gdown
 
 model_url  = 'https://drive.google.com/uc?id=1IMOjyRb4fL8FcdE9kZhlXVDt4n2se07n'
 
-output_path = 'my_model3.hdf5'
+output_path = 'my_model.hdf5'
 
 gdown.download(model_url, output_path, quiet=False)
 
