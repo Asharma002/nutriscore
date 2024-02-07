@@ -1,6 +1,6 @@
 import gdown
 
-model_url  = 'https://drive.google.com/file/d/1xDjhX6HAt_iOUNOLSDQcfsGDhwl02q5q/view?usp=sharing'
+model_url  = 'https://drive.google.com/file/d/1YVaoNsvclMga-HmEmh41ZXutv69wiMYM/view?usp=sharing'
 
 output_path = 'model.hdf5'
 
