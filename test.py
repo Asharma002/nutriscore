@@ -8,6 +8,7 @@ gdown.download(model_url, output_path, quiet=False)
 
 import streamlit as st
 import tensorflow as tf
+import keras
 from PIL import Image
 import numpy as np
 import emoji
@@ -15,7 +16,7 @@ with open('style.css') as f:
      st.markdown(f'<style>{(f.read())}</style>', unsafe_allow_html=True)
      
 # Load the pre-trained model
-model = tf.keras.models.load_model(output_path)
+model = keras.models.load_model(output_path)
 
 # Define the Streamlit app
 def app():
