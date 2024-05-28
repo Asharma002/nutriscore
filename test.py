@@ -8,7 +8,7 @@ from tensorflow import keras
 
 # Define the URL of the model file on Google Drive and the output path
 model_url = 'https://drive.google.com/uc?id=12077yIkpCaAkE8gb-H_Kq7SCXtv6sDPs'
-output_path = 'my_model2.hdf5'
+output_path = 'nutri_model.hdf5'
 
 # Download the model from Google Drive
 gdown.download(model_url, output_path, quiet=False)
